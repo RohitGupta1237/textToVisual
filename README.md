@@ -2,7 +2,7 @@
 
 Please find enclosed herewith my project entitled 'Text To Visual' which is required to complete my internship with Microsoft. 
     
-This project converts text to visuals which help user to actually know how things apear in real world. 
+This project converts text to visuals which help user to actually know how things appear in real world. 
 
 For this project I have written the code in python. The project deployement is done with the Azure app service using flask framework.
 
