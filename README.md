@@ -13,8 +13,10 @@ Nowadays, from a little baby to an adult, everyone is busy with mobiles, compute
 
 steps to run :
 1. open the project link
-2. enter name and object you wish to visualise
+2. enter your name and the object you wish to visualise
 3. click on get started 
+4. You will see the images of desired object.
+
 
 
 project url:
